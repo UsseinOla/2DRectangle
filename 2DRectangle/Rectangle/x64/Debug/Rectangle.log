@@ -1,0 +1,6 @@
+﻿  Rectangle.cpp
+c:\users\user\source\repos\rectangle\rectangle\rectangle.cpp(136): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\user\source\repos\rectangle\rectangle\rectangle.cpp(138): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\source\repos\rectangle\rectangle\rectangle.cpp(150): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\source\repos\rectangle\rectangle\rectangle.cpp(151): warning C4305: 'argument': truncation from 'double' to 'float'
+  Rectangle.vcxproj -> C:\Users\User\source\repos\Rectangle\x64\Debug\Rectangle.exe
